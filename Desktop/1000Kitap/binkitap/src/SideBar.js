@@ -7,6 +7,7 @@ const sideBarStyle = {
     alignItems: "flex-start",
 };
 
+
 const linkStyle = {
   marginBottom: "10px",
 };
@@ -25,6 +26,9 @@ function SideBar() {
       </div>
       <div style={linkStyle}>
         <Link to="/books">Books</Link>
+      </div>
+      <div style={linkStyle}>
+        <Link to="/flood">Flood</Link>
       </div>
     </div>
   );

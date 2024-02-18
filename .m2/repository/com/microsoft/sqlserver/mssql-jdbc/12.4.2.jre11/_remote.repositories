@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 30 22:10:53 TRT 2023
+mssql-jdbc-12.4.2.jre11-sources.jar>central=
+mssql-jdbc-12.4.2.jre11.jar>central=
+mssql-jdbc-12.4.2.jre11.pom>central=

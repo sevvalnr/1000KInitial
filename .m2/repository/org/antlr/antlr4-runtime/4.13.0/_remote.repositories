@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 30 21:33:07 TRT 2023
+antlr4-runtime-4.13.0-sources.jar>central=
+antlr4-runtime-4.13.0.jar>central=
+antlr4-runtime-4.13.0.pom>central=

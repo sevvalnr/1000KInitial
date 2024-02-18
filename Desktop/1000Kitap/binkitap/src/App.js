@@ -3,6 +3,7 @@ import Home from './Components/Home';
 import Profile from './Components/Profile';
 import SignUp from './Components/SignUp';
 import Books from './Components/Books';
+import Flood from './Components/Flood/Flood';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { Component } from 'react';
 import SideBar from './SideBar';
@@ -17,6 +18,7 @@ function App() {
           	<Routes>
              <Route path ="/" element = {<Home />}/>
              <Route path ="/books" element = {<Books/>}/>
+             <Route path ="/flood" element = {<Flood/>}/>
              <Route path ="/profile" element = {<Profile/>}/>
              <Route path ="/signUp" element = {<SignUp/>}/>
             </Routes>

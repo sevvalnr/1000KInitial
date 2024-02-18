@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 31 17:31:10 TRT 2023
+byte-buddy-agent-1.12.17-sources.jar>central=
+byte-buddy-agent-1.12.17.jar>central=
+byte-buddy-agent-1.12.17.pom>central=
